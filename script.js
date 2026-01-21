@@ -42,9 +42,9 @@ const songs = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkBcHnkbQmOIp93z5vk9ihLtzPTml2FOGMcg&s",
   },
   {
-    title: "Shaiba",
+    title: "Sahiba",
     name: "Aditya Rikhari",
-    url: "Music/sahiba.mp3",
+    url: "Music/Sahiba.mp3",
     image: "https://i.scdn.co/image/ab67616d0000b2730a47bbe7141fdfe0eb2cdba7",
   },
   {
